@@ -1,8 +1,6 @@
 # Replications in Software Engineering
 
-Below we list replications of Software Engineering studies. If your replication or replicated paper is missing please do a pull request! Or contact Robert Feldt (google is your friend for his email / contact info :)). Papers are listed in reverse chronological order of original paper, per ROSE Festival in which they were presented (or Other, see below).
-
-So far we list 5 original and 5 replication studies below. If your paper is missing or some link / information is wrong please contact us (or do a PR).
+Below we have started to list replications of Software Engineering studies. The list is incomplete. If your replication or replicated paper is missing please do a pull request! Or contact Robert Feldt (google is your friend for his email / contact info :)). Papers are listed in reverse chronological order of original paper, per ROSE Festival in which they were presented (or Other, see below).
 
 # ROSE1 @ ESEC/FSE 2018
 
@@ -20,7 +18,6 @@ containment, and composability of routines in open-source projects"](https://iee
 5. ["Improving Automated Source Code Summarization via an Eye-Tracking Study of Programmers"]() by Rodeghero, McMillan, McBurney, Bosch, D’Mello. ICSE 2014. ACM Distinguished Paper Award. Replicated in:
 	- ["Developer Reading Behavior While Summarizing Java Methods: Size and Context Matters"](https://arxiv.org/abs/1903.03358) by Abid, Sharif, Dragan, Alrasheed, Maletic. ICSE 2019.
 
-[""]() by 
 
 
 # ROSE3 @ ESEC/FSE 2019
