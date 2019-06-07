@@ -25,3 +25,8 @@ containment, and composability of routines in open-source projects"](https://iee
 # ROSE4 @ ESEM 2019
 
 # Other
+
+Below we list other replication studies we know of but which have not yet been presented at a ROSE event.
+
+1. ["Characterizing Logging Practices in Open-Source Software"](https://ieeexplore.ieee.org/document/6227202) by Ding Yuan, Soyeon Park, Yuanyuan Zhou. ICSE 2012. Replicated in:
+    - ["Characterizing Logging Practices in Java-based Open Source Software Projects - a Replication Study in Apache Software Foundation"](https://www.eecs.yorku.ca/~chenfsd/resources/emse2016_chen.pdf) by Boyuan Chen, Zhen Ming (Jack) Jiang, EMSE 2017.
