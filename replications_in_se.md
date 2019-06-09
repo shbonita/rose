@@ -14,7 +14,9 @@ Below we have started to list replications of Software Engineering studies. The 
 	- Unpublished but [available here](https://github.com/CESEL/ReviewPostReleaseDefectsReplication/blob/master/KrutauzReviewDefectsDraft.pdf). by A. Krutauz, T. Dey, P. Rigby, A. Mockus.
 4. ["A large-scale study on repetitiveness,
 containment, and composability of routines in open-source projects"](https://ieeexplore.ieee.org/document/7832915) by A. T. Nguyen, H. A. Nguyen, T. N. Nguyen. MSR 2016. Replicated in:
-	- ["An Investigation of Routine Repetitiveness in Open-Source Projects"](https://etd.ohiolink.edu/!etd.send_file?accession=bgsu1530525754458504&disposition=inline) by M. Arafat (advisor: R. Dyer). 2018 Masters Thesis, Bowling Green State University.
+        - ["An Investigation of Routine Repetitiveness in Open-Source Projects"](
+http://rave.ohiolink.edu/etdc/view?acc_num=bgsu1530525754458504
+) by M. Arafat (advisor: R. Dyer). 2018 Masters Thesis, Bowling Green State University.
 5. ["Improving Automated Source Code Summarization via an Eye-Tracking Study of Programmers"]() by Rodeghero, McMillan, McBurney, Bosch, D’Mello. ICSE 2014. ACM Distinguished Paper Award. Replicated in:
 	- ["Developer Reading Behavior While Summarizing Java Methods: Size and Context Matters"](https://arxiv.org/abs/1903.03358) by Abid, Sharif, Dragan, Alrasheed, Maletic. ICSE 2019.
 
