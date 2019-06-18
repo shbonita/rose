@@ -3,7 +3,9 @@
 Below we have started to list replications of Software Engineering studies. The list is incomplete. If your replication or replicated paper is missing please do a pull request! Or contact Robert Feldt (google is your friend for his email / contact info :)). Papers are listed in reverse chronological order of original paper, per ROSE Festival in which they were presented (or Other, see below).
 
 # ROSE1 @ ESEC/FSE 2018
-
+1. ["To camelcase or under_score"]() by Binkley, Davis, Lawrie, Morrell. ICPC 2009. Replicated in:
+	- ["A Replication on the Effect of Identifier Style on Comprehension"]() by Sharif, Maletic. ICPC 2010, EMSE 2013.
+	
 # ROSE2 @ ICSE 2019
 
 1. ["Sentiment Analysis for Software Engineering. How Far Can We Go?"](https://ieeexplore.ieee.org/abstract/document/8453067) by B. Lin, F. Zampetti, G. Bavota, M. D. Penta, M. Lanza, and R. Oliveto. ICSE 2018. Replicated in:
